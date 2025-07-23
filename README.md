@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Cancellation Analysis
+# 🏨 Hotel Booking Project
 
 ## 📌 Project Overview
 
